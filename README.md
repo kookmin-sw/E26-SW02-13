@@ -4,6 +4,12 @@
 
 > 우리는 업데이트 중입니다.
 
+## 💡 팀이 상상한 미래
+
+<div class="poster"><img src="presentation.jpg" alt="팀이 상상한 미래" width="600"/></div>
+
+<p align="center" class="poster-caption">
+
 ## 🖼️ 팀 포스터
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
